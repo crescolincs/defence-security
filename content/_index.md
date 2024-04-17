@@ -94,7 +94,7 @@ offerfeatures:
   display: true
   features:
    - heading: Building the UK’s ISTAR Centre of Excellence 
-     image: factory.jpg
+     image: defence-1.jpg
      lead: In Lincolnshire, a partnership encompassing industry, academia and the military is working proactively to develop the Regional Defence and Security Cluster - with a focus on ISTAR technologies applicable across all defence domains including space.
      body: >-
            - Building on ISTAR capabilities within the RAF and supporting businesses, combined with the University of Lincoln’s leading-edge digital and information technology expertise.
@@ -111,7 +111,7 @@ offerfeatures:
            Located alongside MoD ISTAR capabilities, the cluster provides access to defence users, opportunities to understand their challenges, and the potential for collaborative innovation.
      ctatext: about Lincolnshire’s ISTAR centre of excellence                    
    - heading: Lincolnshire’s Military Presence 
-     image: factory.jpg
+     image: defence-2.jpg
      lead: >- 
            Lincolnshire’s RAF bases are closely aligned with the area’s defence and security industry concentrations, creating high-value opportunities for collaboration and innovation.
      body: >-
@@ -123,7 +123,7 @@ offerfeatures:
 
      ctatext: about Lincolnshire’s military presence 
    - heading: Lincolnshire’s Defence & Security Industry Cluster 
-     image: factory.jpg
+     image: defence-3.jpg
      lead: >- 
            For defence and security sector businesses investing in Lincolnshire, the area’s established industry cluster ensures advanced technological expertise, a skilled workforce, and the potential for value-adding innovation and supply chain partnerships.
      body: >-
@@ -137,7 +137,7 @@ offerfeatures:
 
      ctatext: about Lincolnshire’s defence and security industry cluster 
    - heading: Defence & Security Research, Technologies and Innovation 
-     image: factory.jpg
+     image: defence-4.jpg
      lead: >- 
            Combining advanced digital and engineering knowledge, the University of Lincoln has emerged as a leading UK hub for research and innovation in fields including data analytics, digitalisation, Industry 4.0, and the transition to Industry 5.0.
      body: >-
@@ -153,7 +153,7 @@ offerfeatures:
            Through the Regional Defence and Security Cluster, businesses can access University of Lincoln resources directly, collaborate with academic and supply chain partners, and share best practice to gain a technological advantage. 
      ctatext: about defence & security research, technologies and innovation in Lincolnshire  
    - heading: A Technically Skilled Defence & Security Sector Workforce 
-     image: factory.jpg
+     image: defence-5.jpg
      lead: >- 
            Lincolnshire offers a technically skilled workforce aligned with the needs of expanding defence and security technology businesses.
      body: >-
@@ -171,7 +171,7 @@ offerfeatures:
            For defence sector businesses investing in Lincolnshire, this substantial, established skills base can enable recruitment, fast project delivery and ongoing productivity. 
      ctatext: about Lincolnshire’s defence and security workforce, education and skills 
    - heading: Sites and Properties for Defence & Security Research and Business Growth 
-     image: factory.jpg
+     image: defence-6.jpg
      lead: >- 
            The defence and security industry is projected to grow at sites across Lincolnshire, enabling university R&D collaborations, secure product testing and evaluation, and full-scale commercial business operations.
      body: >-
@@ -183,7 +183,7 @@ offerfeatures:
 
      ctatext: about sites and properties for defence & security businesses in Lincolnshire
    - heading: Decarbonisation & Sustainability Solutions for Defence & Security Businesses 
-     image: factory.jpg
+     image: low-carbon-4.jpg
      lead: >- 
            Lincolnshire is at the forefront of the UK’s Green Industrial Revolution, creating potential opportunities for defence and security sector businesses to access low carbon energy sources and implement ambitious decarbonisation strategies.
      body: >-
@@ -201,7 +201,7 @@ offerfeatures:
            For defence sector businesses investing in Lincolnshire, this substantial, established skills base can enable recruitment, fast project delivery and ongoing productivity. 
      ctatext: about Lincolnshire’s defence and security workforce, education and skills
    - heading: Decarbonisation & Sustainability Solutions for Defence & Security Businesses 
-     image: factory.jpg
+     image: defence-7.jpg
      lead: >- 
            Lincolnshire is at the forefront of the UK’s Green Industrial Revolution, creating potential opportunities for defence and security sector businesses to access low carbon energy sources and implement ambitious decarbonisation strategies.
      body: >-
@@ -213,7 +213,7 @@ offerfeatures:
  
      ctatext: about Lincolnshire’s decarbonisation & sustainability solutions for defence & security businesses
    - heading: Fast UK & Global Market Access for Defence & Security Businesses 
-     image: factory.jpg
+     image: defence-8.jpg
      lead: >- 
            Greater Lincolnshire provides defence and security sector businesses with fast, multimodal access to UK and international markets.
      body: >-
@@ -234,37 +234,29 @@ support:
   lead: >-
       Working together, Invest Lincolnshire and our partner organisations, including local authorities, education providers and businesses, provide dedicated support to ensure a ‘soft landing’ for companies locating and investing in Lincolnshire.
   ctatext: about support for investing businesses from Invest Lincolnshire
-  image: green-grad.png
+  image: red-grad.png
 companylogos:
   display: true
   heading: Home to Leading Defence and Security Businesses
   subheading: Businesses established in Lincolnshire’s Defence and Security sector include
   scrollbarclr: '#dd898e'
   companies:
-   - name: BA Systems
-     logo: bae-systems-logo.png
-   - name: Collins Aerospace
-     logo: collins-logo.png
-   - name: Siemens
-     logo: siemens-logo.png
-   - name: BA Systems
-     logo: bae-systems-logo.png
-   - name: Collins Aerospace
-     logo: collins-logo.png
-   - name: Siemens
-     logo: siemens-logo.png
-   - name: BA Systems
-     logo: bae-systems-logo.png
-   - name: Collins Aerospace
-     logo: collins-logo.png
-   - name: Siemens
-     logo: siemens-logo.png
-   - name: BA Systems
-     logo: bae-systems-logo.png
-   - name: Collins Aerospace
-     logo: collins-logo.png
-   - name: Siemens
-     logo: siemens-logo.png 
+   - name: investor company logo
+     logo: defence-logo-1.png
+   - name: investor company logo
+     logo: defence-logo-2.png
+   - name: investor company logo
+     logo: defence-logo-3.png
+   - name: investor company logo
+     logo: defence-logo-4.png
+   - name: investor company logo
+     logo: defence-logo-5.png
+   - name: investor company logo
+     logo: defence-logo-6.png
+   - name: investor company logo
+     logo: defence-logo-7.png
+   - name: investor company logo
+     logo: defence-logo-8.png
 
 articles:
   display: true
