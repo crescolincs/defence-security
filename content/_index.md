@@ -69,20 +69,20 @@ marketopportunity:
      display: false
      img: 
   stats: 
-   - name: UK Consumers
-     size: 67.7
-     measure: million
+   - name: Transformation
+     size: ISTAR
+     measure: Rapid Digitisation
      clrscheme: light
      textcolor: sector-dark
 
-   - name: UK Market Value
-     size: £254
-     measure: billion P.A.
+   - name: Defence Investment
+     size: £85
+     measure: billion by 2025
      clrscheme: mid
      textcolor: white
-   - name: UK Market Growth
-     size: +37%
-     measure: 2010-2019
+   - name: UK Target
+     size: Net Zero
+     measure: Emissions By 2050
      clrscheme: dark
      textcolor:  sector-light     
   ctatext: about the UK Defence and Security market opportunity
