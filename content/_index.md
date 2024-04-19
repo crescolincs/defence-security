@@ -53,11 +53,13 @@ marketopportunity:
   heading: "The UK Defence and Security Market Opportunity"
   lead: >-
      From a Lincolnshire base, investing businesses can leverage the opportunities presented by a rapidly transforming and growing defence and security sector - through direct access to leading-edge digital technologies, ground-breaking decarbonisation solutions, and secure environments for defence innovation, testing and production. 
+
+
   benefits:
    - benefit: "Digitalisation"
      feature: "is enabling better information and revolutionising performance – both in the military operating environment and throughout the industry value chain."
-   - benefit: "ISTAR is digitalising rapidly"
-     feature: ", creating growing demand for fast, networked communications; big data analytics; AI; and optimised human-machine interaction."
+   - benefit: "ISTAR is digitalising rapidly,"
+     feature: " creating growing demand for fast, networked communications; big data analytics; AI; and optimised human-machine interaction."
    - benefit: "Industry 4.0 technologies"
      feature: " are transforming the development, procurement, manufacture and distribution of defence products - for businesses and governments."     
    - benefit: "The UK’s Net Zero commitments "
@@ -85,7 +87,7 @@ marketopportunity:
      measure: Emissions By 2050
      clrscheme: dark
      textcolor:  sector-light     
-  ctatext: about the UK Defence and Security market opportunity
+  ctatext: about the UK defence and security market opportunity
 offerfeatures:
   display: true
   features:
@@ -112,7 +114,7 @@ offerfeatures:
      lead: >- 
            Lincolnshire’s RAF bases are closely aligned with the area’s defence and security industry concentrations, creating high-value opportunities for collaboration and innovation.
      body: >-
-           - Lincolnshire’s RAF bases are located within around 30 minutes’ drive time from Lincoln home to the University of Lincoln and Lincoln Science and Innovation Park (LSIP)
+           - Lincolnshire’s RAF bases are located within around 30 minutes’ drive time from Lincoln - home to the University of Lincoln and Lincoln Science and Innovation Park (LSIP)
 
            - The bases potentially offer secure locations with permissive airspace for advanced technology development, testing, and evaluation.
 
@@ -235,7 +237,7 @@ companylogos:
      logo: defence-logo-8.png
 
 articles:
-  display: true
+  display: false
   heading: Articles for Defence and Security in Lincolnshire
 sectorCTA:
   display: true
