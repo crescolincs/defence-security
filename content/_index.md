@@ -78,7 +78,7 @@ marketopportunity:
      textcolor: sector-dark
 
    - name: Defence Investment
-     size: £85
+     size: £85 
      measure: billion by 2025
      clrscheme: mid
      textcolor: white

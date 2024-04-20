@@ -2,4 +2,4 @@ module github.com/crescolincs/defence-security
 
 go 1.21.1
 
-require github.com/crescolincs/lincs-theme v0.0.0-20240419210214-a14bbd8c37a5 // indirect
+require github.com/crescolincs/lincs-theme v0.0.0-20240420091801-b9c33c4c26e9 // indirect
