@@ -220,13 +220,13 @@ companylogos:
   scrollbarclr: '#dd898e'
   companies:
    - name: investor company logo
-     logo: defence-logo-1.png
+     logo: defence-logo-1.png?4
    - name: investor company logo
      logo: defence-logo-2.png
    - name: investor company logo
      logo: defence-logo-3.png
    - name: investor company logo
-     logo: defence-logo-4.png
+     logo: defence-logo-4.png?4
    - name: investor company logo
      logo: defence-logo-5.png
    - name: investor company logo
