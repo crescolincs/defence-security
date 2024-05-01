@@ -31,7 +31,7 @@ investmentopportunity:
      description: 'Including defence and security technology companies supporting RAF ISTAR, and advanced digital, engineering and energy technology businesses.'
    - icon: 'research.svg'
      title: 'Research & Technology'
-     description: UK-leading digital and IT R&D, in key areas including sensors, AI, big data analytics, robotics and automation, and VAR (virtual and augmented reality).' 
+     description: UK-leading digital and IT R&D, in key areas including sensors, AI, big data analytics, robotics and automation, and VAR (virtual and augmented reality). 
    - icon: 'workforce.svg'
      title: 'Specialist Workforce'
      description: 'A technically skilled workforce, including a substantial ex-military population, and skills providers focused on the needs of defence and security businesses.'                
@@ -77,14 +77,16 @@ marketopportunity:
      clrscheme: light
      textcolor: sector-dark
 
-   - name: Defence Investment
+   - name: UK Investment
      size: £85 
-     measure: billion by 2025
+     measure: billion
+     when: by 2025
      clrscheme: mid
      textcolor: white
    - name: UK Target
      size: Net Zero
-     measure: Emissions By 2050
+     measure: Emissions
+     when: By 2050
      clrscheme: dark
      textcolor:  sector-light     
   ctatext: about the UK defence and security market opportunity
@@ -94,9 +96,9 @@ offerfeatures:
    - heading: Building the UK’s ISTAR Centre of Excellence 
      image: defence-1.jpg
      lead: >-
-          Focused on ISTAR technologies applicable across all defence domains including space, Lincolnshire’s Regional Defence and Security Cluster is enabling access to defence users, insights into their challenges, and opportunities for collaborative innovation.
+          Focused on ISTAR technologies applicable across all defence domains including space, the Greater Lincolnshire Regional Defence and Security Cluster (GLRDSC) is enabling access to defence users, insights into their challenges, and opportunities for collaborative innovation.
      body: >-
-           - A Lincolnshire defence sector partnership of industry, academia and the military.
+           - The GLRDSC is a Lincolnshire defence sector partnership of industry, academia and the military.
 
            - Building on, and co-located with, RAF and supporting business ISTAR capabilities, combined with University of Lincoln expertise in digital and information technologies.
 
@@ -193,7 +195,7 @@ offerfeatures:
    - heading: Fast UK & Global Market Access for Defence & Security Businesses 
      image: defence-8.jpg
      lead: >- 
-           Greater Lincolnshire provides defence and security sector businesses with fast, multimodal access to UK and international markets.
+           Lincolnshire provides defence and security sector businesses with fast, multimodal access to UK and international markets.
      body: >-
            - Lincolnshire’s central Great Britain location (north-south) enables fast access by road to the UK’s major defence and advanced manufacturing centres and markets.
 
@@ -235,7 +237,10 @@ companylogos:
      logo: defence-logo-7.png
    - name: investor company logo
      logo: defence-logo-8.png
-
+   - name: investor company logo
+     logo: defence-logo-9.png
+   - name: investor company logo
+     logo: defence-logo-91.png     
 articles:
   display: false
   heading: Articles for Defence and Security in Lincolnshire
