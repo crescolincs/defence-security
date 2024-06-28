@@ -74,6 +74,7 @@ marketopportunity:
    - name: Transformation
      size: ISTAR
      measure: Rapid Digitisation
+     when: " "
      clrscheme: light
      textcolor: sector-dark
 

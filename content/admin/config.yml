@@ -45,20 +45,22 @@ collections: # A list of collections the CMS should be able to edit
     label: "Pages"
     files:
       - file: "content/_index.md"
-        label: "Defence & Security Home Page"
+        label: "Defence and Security Home Page"
         name: "home"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Social Image", name: "socialImage", widget: "image" , required: false, hint: An image that will be picked up by social media platforms}
           - {label: "Sector", name: "sector", widget: "hidden", default: defence-security}
           - {label: "Description(SEO)", name: "seoDescription", widget: "text", required: false, hint: A description/synopsis of the content to help search engines undestand the value to your audience}
-          - {label: "CTA Arrow Dark", name: "ctaarrowclrdark", widget: "hidden", default: '#252159'}
-          - {label: "CTA Arrow Light", name: "ctaarrowclrlight", widget: "hidden", default: '#90a6ca'}
+          - {label: "CTA Arrow Dark", name: "ctaarrowclrdark", widget: "hidden", default: '#80244e'}
+          - {label: "CTA Arrow Light", name: "ctaarrowclrlight", widget: "hidden", default: '#dd898e'}
+
           - {label: "Hero", name: "hero", widget: "object", fields: [
               {label: "Display", name: "display",  widget: "boolean", default: true , hint: Set to false to hide the Hero Section.},
               {label: "Heading", name: "heading", widget: "string", hint: A clear statement that indicates who this offer is for and how it will help them },
               {label: "Strapline", name: "blurb", widget: "string", hint: A Strapline/Subheading for the Hero Section},
               {label: "Hero Image", name: "heroImg", widget: "image"}]}
+
           - {label: "Investment Opportunity", name: "investmentopportunity", widget: "object", fields: [
               {label: "Display", name: "display",  widget: "boolean", default: true , hint: Set to false to hide the Investment Opportunity Section.},
               {label: "Heading", name: "heading", widget: "string", hint: A clear statement that indicates who this offer is for and how it will help them },
@@ -67,6 +69,7 @@ collections: # A list of collections the CMS should be able to edit
                   {label: "Icon", name: "icon", widget: "image" },
                   {label: "Title", name: "title", widget: "string" },
                   {label: "Description", name: "description", widget: "text"}]}]}
+
           - {label: "Market Opportunity", name: "marketopportunity", widget: "object", fields: [
               {label: "Display", name: "display",  widget: "boolean", default: true , hint: Set to false to hide the Market Opportunity Section.},
               {label: "Heading", name: "heading", widget: "string"},
