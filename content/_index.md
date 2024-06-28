@@ -54,7 +54,6 @@ marketopportunity:
   lead: >-
      From a Lincolnshire base, investing businesses can leverage the opportunities presented by a rapidly transforming and growing defence and security sector - through direct access to leading-edge digital technologies, ground-breaking decarbonisation solutions, and secure environments for defence innovation, testing and production. 
 
-
   benefits:
    - benefit: "Digitalisation"
      feature: "is enabling better information and revolutionising performance – both in the military operating environment and throughout the industry value chain."
@@ -211,7 +210,6 @@ support:
   display: true
   bgcolor: '#252159'
   heading: Support for Your Defence and Security Sector Business Investment
-  image: red-grad.png
   lead: >-
       Working together, Invest Lincolnshire and our partner organisations, including local authorities, education providers and businesses, provide dedicated support to ensure a ‘soft landing’ for companies locating and investing in Lincolnshire.
   ctatext: about support for investing businesses from Invest Lincolnshire
