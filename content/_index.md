@@ -1,6 +1,6 @@
 ---
 title: "Invest in Lincolnshire's Defence & Security Sector. Invest in Lincolnshire"
-socialImage: 'defence-security-header.png'
+socialImage: 'https://res.cloudinary.com/lincs/image/upload/defence-security-header.png'
 sector: defence-security
 seoDescription: >-
               Lincolnshire presents a unique location opportunity for defence and security companies investing in the UK. With a large military presence, the UK’s ISTAR hub, a cluster of high-tech businesses supporting RAF operations, and providers of leading-edge digital and information technology R&D, Lincolnshire enables direct access to the UK’s expanding and transforming defence market. 
@@ -19,32 +19,32 @@ investmentopportunity:
   heading: 'The Lincolnshire Defence & Security Investment Opportunity'
   subheading: 'For investing defence and security businesses, Lincolnshire offers:'
   offer:
-   - icon: 'istar.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/istar.svg'
      title: 'UK ISTAR Hub'
      description: 'Home to the “hub of UK ISTAR and the main operating base for airborne intelligence aircraft and systems.” (RAF)'
-   - icon: 'military.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/military.svg'
      title: 'Military Presence'
      description: >-
        Including the RAF’s Air and Space Warfare Centre (ASWC) and Air Battlespace Training Centre, and the MOD’s Joint Cyber and Electromagnetic Activities Group (JCG).
-   - icon: 'market.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/market.svg'
      title: 'Industry Cluster'
      description: 'Including defence and security technology companies supporting RAF ISTAR, and advanced digital, engineering and energy technology businesses.'
-   - icon: 'research.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/research.svg'
      title: 'Research & Technology'
      description: UK-leading digital and IT R&D, in key areas including sensors, AI, big data analytics, robotics and automation, and VAR (virtual and augmented reality). 
-   - icon: 'workforce.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/workforce.svg'
      title: 'Specialist Workforce'
      description: 'A technically skilled workforce, including a substantial ex-military population, and skills providers focused on the needs of defence and security businesses.'                
-   - icon: 'property.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/property.svg'
      title: 'Sites & Properties'
      description: 'A range of accommodation solutions for expanding defence and security sector businesses of all sizes and profiles.'
-   - icon: 'sustainable-icon.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/sustainable-icon.svg'
      title: 'Sustainability Solutions'
      description: 'At the heart of the UK’s transition to Net Zero energy and industry - ideally positioned to facilitate ambitious business decarbonisation strategies. '
-   - icon: 'market.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/market.svg'
      title: 'Market Access'
      description: 'Business locations close to key military bases, with fast, multimodal access to UK and international markets.'
-   - icon: 'support.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/support.svg'
      title: 'Dedicated Support'
      description: 'Dedicated support for investing businesses'    
              
@@ -76,7 +76,6 @@ marketopportunity:
      when: " "
      clrscheme: light
      textcolor: sector-dark
-
    - name: UK Investment
      size: £85 
      measure: billion
@@ -94,7 +93,7 @@ offerfeatures:
   display: true
   features:
    - heading: Building the UK’s ISTAR Centre of Excellence 
-     image: defence-1.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/defence-1.jpg
      lead: >-
           Focused on ISTAR technologies applicable across all defence domains including space, the Greater Lincolnshire Regional Defence and Security Cluster (GLRDSC) is enabling access to defence users, insights into their challenges, and opportunities for collaborative innovation.
      body: >-
@@ -112,7 +111,7 @@ offerfeatures:
 
      ctatext: about Lincolnshire’s ISTAR centre of excellence                     
    - heading: Lincolnshire’s Military Presence 
-     image: defence-2.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/defence-2.jpg
      lead: >- 
            Lincolnshire’s RAF bases are closely aligned with the area’s defence and security industry concentrations, creating high-value opportunities for collaboration and innovation.
      body: >-
@@ -124,7 +123,7 @@ offerfeatures:
 
      ctatext: about Lincolnshire’s military presence 
    - heading: Lincolnshire’s Defence & Security Industry Cluster 
-     image: defence-3.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/defence-3.jpg
      lead: >- 
            For defence and security businesses investing in Lincolnshire, the area’s established industry cluster ensures advanced technological expertise, a skilled workforce, and the potential for value-adding innovation and supply chain partnerships.
      body: >-
@@ -138,7 +137,7 @@ offerfeatures:
 
      ctatext: about Lincolnshire’s defence and security industry cluster 
    - heading: Defence & Security Research, Technologies and Innovation 
-     image: defence-4.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/defence-4.jpg
      lead: >- 
            Through the Regional Defence and Security Cluster, businesses investing in Lincolnshire can access leading-edge digital and information technologies, collaborate with academic and supply chain partners, and share best practice to gain a technological edge.
      body: >-
@@ -152,7 +151,7 @@ offerfeatures:
  
      ctatext: about defence & security research, technologies and innovation in Lincolnshire  
    - heading: A Technically Skilled Defence & Security Sector Workforce 
-     image: defence-5.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/defence-5.jpg
      lead: >- 
            Lincolnshire offers a technically skilled workforce aligned with the needs of expanding defence and security businesses - enabling faster recruitment and project delivery, and ongoing productivity.
      body: >-
@@ -168,7 +167,7 @@ offerfeatures:
 
      ctatext: about Lincolnshire’s defence and security workforce, education and skills 
    - heading: Sites and Properties for Defence & Security Research and Business Growth 
-     image: defence-6.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/defence-6.jpg
      lead: >- 
            The defence and security industry is projected to grow at sites across Lincolnshire, enabling university R&D collaborations, secure product testing and evaluation, and full-scale commercial business operations.
      body: >-
@@ -180,7 +179,7 @@ offerfeatures:
 
      ctatext: about sites and properties for defence & security businesses in Lincolnshire
    - heading: Decarbonisation & Sustainability Solutions for Defence & Security Businesses 
-     image: defence-7.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/defence-7.jpg
      lead: >- 
            Lincolnshire is at the forefront of the UK’s Green Industrial Revolution, creating potential opportunities for defence and security businesses to access low carbon energy sources and implement ambitious decarbonisation strategies.
      body: >-
@@ -193,7 +192,7 @@ offerfeatures:
      ctatext: about Lincolnshire’s decarbonisation & sustainability solutions for defence & security businesses
 
    - heading: Fast UK & Global Market Access for Defence & Security Businesses 
-     image: defence-8.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/defence-8.jpg
      lead: >- 
            Lincolnshire provides defence and security sector businesses with fast, multimodal access to UK and international markets.
      body: >-
@@ -221,25 +220,25 @@ companylogos:
   scrollbarclr: '#dd898e'
   companies:
    - name: investor company logo
-     logo: defence-logo-1.png?4
+     logo: https://res.cloudinary.com/lincs/image/upload/defence-logo-1.png?4
    - name: investor company logo
-     logo: defence-logo-2.png
+     logo: https://res.cloudinary.com/lincs/image/upload/defence-logo-2.png
    - name: investor company logo
-     logo: defence-logo-3.png
+     logo: https://res.cloudinary.com/lincs/image/upload/defence-logo-3.png
    - name: investor company logo
-     logo: defence-logo-4.png?4
+     logo: https://res.cloudinary.com/lincs/image/upload/defence-logo-4.png?4
    - name: investor company logo
-     logo: defence-logo-5.png
+     logo: https://res.cloudinary.com/lincs/image/upload/defence-logo-5.png
    - name: investor company logo
-     logo: defence-logo-6.png
+     logo: https://res.cloudinary.com/lincs/image/upload/defence-logo-6.png
    - name: investor company logo
-     logo: defence-logo-7.png
+     logo: https://res.cloudinary.com/lincs/image/upload/defence-logo-7.png
    - name: investor company logo
-     logo: defence-logo-8.png
+     logo: https://res.cloudinary.com/lincs/image/upload/defence-logo-8.png
    - name: investor company logo
-     logo: defence-logo-9.png
+     logo: https://res.cloudinary.com/lincs/image/upload/defence-logo-9.png
    - name: investor company logo
-     logo: defence-logo-91.png     
+     logo: https://res.cloudinary.com/lincs/image/upload/defence-logo-91.png     
 articles:
   display: false
   heading: Articles for Defence and Security in Lincolnshire
@@ -249,7 +248,7 @@ sectorCTA:
   headingcolor: light
   buttoncolor: '#009e7f'
   buttonhover: '#aacf8b'
-  image: defence-brochure.png
+  image: https://res.cloudinary.com/lincs/image/upload/defence-brochure.png
   heading: Get the Data on Lincolnshire as a defence and security Business Location
   lead: >-
      Lincolnshire’s defence and security sector Business Location Guide provides essential information and data for companies researching and evaluation Lincolnshire as a potential investment location, including:                                       
@@ -273,7 +272,7 @@ sectorCTA:
        value: defence-security        
      - field: cc
        value: dklongley@clarity-strategies  
-  footerimg: red-half-grad.png 
+  footerimg: https://res.cloudinary.com/lincs/image/upload/red-half-grad.png 
 ---
 
 
