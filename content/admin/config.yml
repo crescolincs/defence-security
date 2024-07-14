@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: crescolincs/defence-security
+  repo: crescolincs/agrifood
   branch: main
   base_url: https://smc.agrifood.pages.dev #url for Oauth app on Github Developer settings
   auth_endpoint: /api/auth
@@ -9,7 +9,7 @@ media_library:
   config:
     cloud_name: lincs
     api_key: 753698353151579
-    multiple: false
+    multiple: true
     output_filename_only: true
 
 
@@ -17,7 +17,8 @@ publish_mode: editorial_workflow
 logo_url: https://res.cloudinary.com/lincs/image/upload/v1716044699/invest-lincolnshire-logo.svg
 
 
-media_folder: "site/static/img" # Folder where user uploaded files should go
+media_folder: "/img" # Folder where user uploaded files should go
+public_folder: "/img"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "articles" # Used in routes, ie.: /admin/collections/:slug/edit
@@ -45,15 +46,15 @@ collections: # A list of collections the CMS should be able to edit
     label: "Pages"
     files:
       - file: "content/_index.md"
-        label: "Defence and Security Home Page"
+        label: "Agrifood Home Page"
         name: "home"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Social Image", name: "socialImage", widget: "image" , required: false, hint: An image that will be picked up by social media platforms}
           - {label: "Sector", name: "sector", widget: "hidden", default: defence-security}
           - {label: "Description(SEO)", name: "seoDescription", widget: "text", required: false, hint: A description/synopsis of the content to help search engines undestand the value to your audience}
-          - {label: "CTA Arrow Dark", name: "ctaarrowclrdark", widget: "hidden", default: '#80244e'}
-          - {label: "CTA Arrow Light", name: "ctaarrowclrlight", widget: "hidden", default: '#dd898e'}
+          - {label: "CTA Arrow Dark", name: "ctaarrowclrdark", widget: "hidden", default: '#126160'}
+          - {label: "CTA Arrow Light", name: "ctaarrowclrlight", widget: "hidden", default: '#aacf8b'}
 
           - {label: "Hero", name: "hero", widget: "object", fields: [
               {label: "Display", name: "display",  widget: "boolean", default: true , hint: Set to false to hide the Hero Section.},
@@ -124,5 +125,5 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Hidden Form Fields", name: "hiddenformfields", widget: "list", fields: [
                   {label: "Field Name", name: "field", widget: "hidden" },
                   {label: "Field Value", name: "value", widget: "hidden" }]},
-              {label: "Image in the footer section", name: "footerimg", widget: "hidden", default: 'blue-half-grad.png'}]}
+              {label: "Image in the footer section", name: "footerimg", widget: "hidden", default: 'green-half-grad.png'}]}
       
