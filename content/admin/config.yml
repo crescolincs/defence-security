@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: crescolincs/engineering-manufacturing
+  repo: crescolincs/defence-security
   branch: main
   base_url: https://smc.agrifood.pages.dev #url for Oauth app on Github Developer settings
   auth_endpoint: /api/auth
@@ -48,7 +48,7 @@ collections: # A list of collections the CMS should be able to edit
     label: "Pages"
     files:
       - file: "content/_index.md"
-        label: "Logistics Home Page"
+        label: "Defence Security Home Page"
         name: "home"
         fields:
           - {label: "Title", name: "title", widget: "string"}

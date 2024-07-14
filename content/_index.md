@@ -12,7 +12,7 @@ hero:
   heading: "Invest in Lincolnshire's defence and security Sector:  Key Benefits and Opportunities"
   blurb: >-
         Lincolnshire presents a unique location opportunity for defence and security companies investing in the UK. With a large military presence, the UK’s ISTAR hub, a cluster of high-tech businesses supporting RAF operations, and providers of leading-edge digital and information technology R&D, Lincolnshire enables direct access to the UK’s expanding and transforming defence market. 
-  heroImg: 'defence-security-header.png'
+  heroImg: 'https://res.cloudinary.com/lincs/image/upload/defence-security-header.png'
 
 investmentopportunity:
   display: true
@@ -212,7 +212,7 @@ support:
   lead: >-
       Working together, Invest Lincolnshire and our partner organisations, including local authorities, education providers and businesses, provide dedicated support to ensure a ‘soft landing’ for companies locating and investing in Lincolnshire.
   ctatext: about support for investing businesses from Invest Lincolnshire
-  image: red-grad.png
+  image: https://res.cloudinary.com/lincs/image/upload/red-grad.png
 companylogos:
   display: true
   heading: Home to Leading Defence and Security Businesses
