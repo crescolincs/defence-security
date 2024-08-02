@@ -271,7 +271,7 @@ sectorCTA:
      - field: page
        value: defence-security        
      - field: cc
-       value: dklongley@clarity-strategies  
+       value: investment@lincolnshire.gov.uk 
   footerimg: https://res.cloudinary.com/lincs/image/upload/red-half-grad.png 
 ---
 
